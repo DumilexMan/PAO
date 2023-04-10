@@ -16,15 +16,7 @@ CLASE:
 - ZOMBI       -> INAMIC SPECIFIC CARE ARE APĂRARE RIDICATĂ
 
 
-IERARHIE:
-JUCATOR
-├── OBIECT
-│   ├── ARMA
-│   ├── ARMURA
-│   └── CONSUMABIL
-└── INAMIC
-    ├── SCHELETE
-    └── ZOMBI
 
+![image](https://user-images.githubusercontent.com/93475691/230998427-b1f4a9c4-2d78-437d-ba64-8d6495fe362f.png)
 
 
