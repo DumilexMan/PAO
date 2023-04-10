@@ -20,7 +20,7 @@ ZOMBI       -> CLASA PENTRU UN INAMIC SPECIFIC CARE ARE APĂRARE RIDICATĂ
 ![image](https://user-images.githubusercontent.com/93475691/230998427-b1f4a9c4-2d78-437d-ba64-8d6495fe362f.png)
 
 
-ACȚIUNI:
+****ACȚIUNI:
 
 JUCĂTOR:
 
@@ -47,11 +47,15 @@ PROVOACĂ_DAUNE      -> Inamicul va provoca daune jucătorului.
 CALCULEAZĂ_DAUNE    -> Inamicul va calcula daunele pe care le va primi în funcție de rezistență.
 
 
-REGULI:
+****REGULI:
 
 -Daunele se calculează astfel: Daunele primite - Rezistența = Daunele asupra vieții.
+
 -Daunele (în cazul unei blocări) vor fi înjumătățite și apoi se vor calcula conform regulii de calcul a daunelor.
+
 -Lupta se va desfășura pe ture, fiecare dintre cei 2 adversari vor provoca daune cu rândul.
+
 -În cazul unei blocări, toate celelalte acțiuni sunt interzise pentru tura respectivă.
+
 -Spațiul de stocare al obiectelor este "infinit".
 
