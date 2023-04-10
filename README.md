@@ -22,40 +22,40 @@ ZOMBI       -> CLASA PENTRU UN INAMIC SPECIFIC CARE ARE APĂRARE RIDICATĂ
 
 *ACȚIUNI:*
 
-JUCĂTOR:
+  JUCĂTOR:
 
-IA_OBIECT           -> Jucătorul va lua un obiect.
+    IA_OBIECT           -> Jucătorul va lua un obiect.
 
-PROVOACĂ_DAUNE      -> Jucătorul va provoca daune unui inamic.
+    PROVOACĂ_DAUNE      -> Jucătorul va provoca daune unui inamic.
 
-CALCULEAZĂ_DAUNE    -> Jucătorul va calcula daunele pe care le va primi în funcție de rezistență.
+    CALCULEAZĂ_DAUNE    -> Jucătorul va calcula daunele pe care le va primi în funcție de rezistență.
 
-ECHIPEAZĂ_ARMURĂ    -> Jucătorul va echipa un set de armură din inventar.
+    ECHIPEAZĂ_ARMURĂ    -> Jucătorul va echipa un set de armură din inventar.
 
-ECHIPEAZĂ_ARMĂ      -> Jucătorul va echipa o armă din inventar.
+    ECHIPEAZĂ_ARMĂ      -> Jucătorul va echipa o armă din inventar.
 
-FOLOSEȘTE_OBIECT    -> Jucătorul va folosi un obiect din inventar.
+    FOLOSEȘTE_OBIECT    -> Jucătorul va folosi un obiect din inventar.
 
-MISCĂ-TE            -> Jucătorul se va mișca.
+    MISCĂ-TE            -> Jucătorul se va mișca.
 
-BLOCHEAZĂ           -> Jucătorul va bloca următorul atac și va suferi daune scăzute.
+    BLOCHEAZĂ           -> Jucătorul va bloca următorul atac și va suferi daune scăzute.
 
-INAMIC:
+  INAMIC:
 
-PROVOACĂ_DAUNE      -> Inamicul va provoca daune jucătorului.
+    PROVOACĂ_DAUNE      -> Inamicul va provoca daune jucătorului.
 
-CALCULEAZĂ_DAUNE    -> Inamicul va calcula daunele pe care le va primi în funcție de rezistență.
+    CALCULEAZĂ_DAUNE    -> Inamicul va calcula daunele pe care le va primi în funcție de rezistență.
 
 
 *REGULI*:
 
--Daunele se calculează astfel: Daunele primite - Rezistența = Daunele asupra vieții.
+  -Daunele se calculează astfel: Daunele primite - Rezistența = Daunele asupra vieții.
 
--Daunele (în cazul unei blocări) vor fi înjumătățite și apoi se vor calcula conform regulii de calcul a daunelor.
+  -Daunele (în cazul unei blocări) vor fi înjumătățite și apoi se vor calcula conform regulii de calcul a daunelor.
 
--Lupta se va desfășura pe ture, fiecare dintre cei 2 adversari vor provoca daune cu rândul.
+  -Lupta se va desfășura pe ture, fiecare dintre cei 2 adversari vor provoca daune cu rândul.
 
--În cazul unei blocări, toate celelalte acțiuni sunt interzise pentru tura respectivă.
+  -În cazul unei blocări, toate celelalte acțiuni sunt interzise pentru tura respectivă.
 
--Spațiul de stocare al obiectelor este "infinit".
+  -Spațiul de stocare al obiectelor este "infinit".
 
