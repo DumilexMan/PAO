@@ -5,7 +5,7 @@ JOC VIDEO
 
 Proiectul meu la PAO va consta într-un simplu joc video, în care te vei plimba pe o matrice si vei interacționa cu elementele din jurul tău.
 
-CLASE:
+*CLASE*:
 
 JUCĂTOR     -> CLASA PENTRU PERSONAJUL CARE SE VA PLIMBA PE HARTĂ
 OBIECT      -> CLASA GENERICĂ PENTRU UN OBIECT CARE POATE FI O ARMĂ, ARMURĂ SAU UN CONSUMABIL
@@ -47,7 +47,7 @@ PROVOACĂ_DAUNE      -> Inamicul va provoca daune jucătorului.
 CALCULEAZĂ_DAUNE    -> Inamicul va calcula daunele pe care le va primi în funcție de rezistență.
 
 
-****REGULI:
+*REGULI*:
 
 -Daunele se calculează astfel: Daunele primite - Rezistența = Daunele asupra vieții.
 
