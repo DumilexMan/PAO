@@ -24,7 +24,7 @@ ACȚIUNI:
 
 JUCĂTOR:
 
-IA_OBIECT           -> Jucătorul va lua un obiect.
+IA_OBIECT           -> Jucătorul va lua un obiect. \n
 PROVOACĂ_DAUNE      -> Jucătorul va provoca daune unui inamic.
 CALCULEAZĂ_DAUNE    -> Jucătorul va calcula daunele pe care le va primi în funcție de rezistență.
 ECHIPEAZĂ_ARMURĂ    -> Jucătorul va echipa un set de armură din inventar.
