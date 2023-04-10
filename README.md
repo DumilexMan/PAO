@@ -25,18 +25,27 @@ ACȚIUNI:
 JUCĂTOR:
 
 IA_OBIECT           -> Jucătorul va lua un obiect.
+
 PROVOACĂ_DAUNE      -> Jucătorul va provoca daune unui inamic.
+
 CALCULEAZĂ_DAUNE    -> Jucătorul va calcula daunele pe care le va primi în funcție de rezistență.
+
 ECHIPEAZĂ_ARMURĂ    -> Jucătorul va echipa un set de armură din inventar.
+
 ECHIPEAZĂ_ARMĂ      -> Jucătorul va echipa o armă din inventar.
+
 FOLOSEȘTE_OBIECT    -> Jucătorul va folosi un obiect din inventar.
+
 MISCĂ-TE            -> Jucătorul se va mișca.
+
 BLOCHEAZĂ           -> Jucătorul va bloca următorul atac și va suferi daune scăzute.
 
 INAMIC:
 
 PROVOACĂ_DAUNE      -> Inamicul va provoca daune jucătorului.
+
 CALCULEAZĂ_DAUNE    -> Inamicul va calcula daunele pe care le va primi în funcție de rezistență.
+
 
 REGULI:
 
