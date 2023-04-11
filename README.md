@@ -38,7 +38,7 @@ ZOMBI       -> CLASA PENTRU UN INAMIC SPECIFIC CARE ARE APĂRARE RIDICATĂ
 
       MISCĂ-TE            -> Jucătorul se va mișca.
 
-      BLOCHEAZĂ           -> Jucătorul va bloca următorul atac și va suferi daune scăzute.
+      INSPECTEAZA_OBIECT  -> Jucătorul va inspecta un obiect.
 
     INAMIC:
 
