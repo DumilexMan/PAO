@@ -47,6 +47,8 @@ Proiectul meu la PAO va consta într-un simplu joc video, în care te vei plimba
       MISCĂ-TE            -> Jucătorul se va mișca.
 
       INSPECTEAZA_OBIECTE -> Jucătorul va inspecta obiectele.
+      
+      ARUNCA_OBIECT       -> Jucătorul va arunca un obiect din inventar.
 
     INAMIC:
 
